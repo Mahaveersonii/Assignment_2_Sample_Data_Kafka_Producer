@@ -1,0 +1,146 @@
+[
+  {
+    "event_type": "trade",
+    "symbol": "BTCUSDT",
+    "timestamp": "2026-08-31T10:00:01.000Z",
+    "price": 112450.20,
+    "quantity": 0.0042,
+    "trade_id": 100001,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "ETHUSDT",
+    "timestamp": "2026-08-31T10:00:02.000Z",
+    "price": 4625.40,
+    "quantity": 0.185,
+    "trade_id": 100002,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BNBUSDT",
+    "timestamp": "2026-08-31T10:00:03.000Z",
+    "price": 855.30,
+    "quantity": 1.24,
+    "trade_id": 100003,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "SOLUSDT",
+    "timestamp": "2026-08-31T10:00:04.000Z",
+    "price": 218.45,
+    "quantity": 3.75,
+    "trade_id": 100004,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BTCUSDT",
+    "timestamp": "2026-08-31T10:00:05.000Z",
+    "price": 112462.80,
+    "quantity": 0.0061,
+    "trade_id": 100005,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "ETHUSDT",
+    "timestamp": "2026-08-31T10:00:06.000Z",
+    "price": 4627.15,
+    "quantity": 0.240,
+    "trade_id": 100006,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BNBUSDT",
+    "timestamp": "2026-08-31T10:00:07.000Z",
+    "price": 856.10,
+    "quantity": 0.82,
+    "trade_id": 100007,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "SOLUSDT",
+    "timestamp": "2026-08-31T10:00:08.000Z",
+    "price": 218.72,
+    "quantity": 4.10,
+    "trade_id": 100008,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BTCUSDT",
+    "timestamp": "2026-08-31T10:00:09.000Z",
+    "price": 112471.35,
+    "quantity": 0.0038,
+    "trade_id": 100009,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "ETHUSDT",
+    "timestamp": "2026-08-31T10:00:10.000Z",
+    "price": 4629.60,
+    "quantity": 0.315,
+    "trade_id": 100010,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BNBUSDT",
+    "timestamp": "2026-08-31T10:00:11.000Z",
+    "price": 855.75,
+    "quantity": 1.65,
+    "trade_id": 100011,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "SOLUSDT",
+    "timestamp": "2026-08-31T10:00:12.000Z",
+    "price": 219.05,
+    "quantity": 2.85,
+    "trade_id": 100012,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BTCUSDT",
+    "timestamp": "2026-08-31T10:00:13.000Z",
+    "price": 112458.90,
+    "quantity": 0.0055,
+    "trade_id": 100013,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "ETHUSDT",
+    "timestamp": "2026-08-31T10:00:14.000Z",
+    "price": 4628.25,
+    "quantity": 0.195,
+    "trade_id": 100014,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "BNBUSDT",
+    "timestamp": "2026-08-31T10:00:15.000Z",
+    "price": 857.20,
+    "quantity": 0.95,
+    "trade_id": 100015,
+    "source": "binance_sample"
+  },
+  {
+    "event_type": "trade",
+    "symbol": "SOLUSDT",
+    "timestamp": "2026-08-31T10:00:16.000Z",
+    "price": 219.18,
+    "quantity": 5.20,
+    "trade_id": 100016,
+    "source": "binance_sample"
+  }
+]
